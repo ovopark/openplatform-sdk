@@ -26,12 +26,12 @@
 
 ## sdk简介
 ### openplatform-sdk-java
-com.ovopark.sdk.openplatform.utils.SignUtils 签名工具类
-com.ovopark.sdk.openplatform.GwInitRequestHandler 请求报文头报文体封装类
-com.ovopark.sdk.openplatform.core.OvoParkHttpClient 万店掌开放平台http客户端
+    com.ovopark.sdk.openplatform.utils.SignUtils 签名工具类
+    com.ovopark.sdk.openplatform.GwInitRequestHandler 请求报文头报文体封装类
+    com.ovopark.sdk.openplatform.core.OvoParkHttpClient 万店掌开放平台http客户端
 ### python-sdk
-signature.py  仅签名过程
-open_util.py  定时任务+签名+请求+日志
+    signature.py  仅签名过程
+    open_util.py  定时任务+签名+请求+日志
 
 ## 签名算法实现
 #### 签名机制
