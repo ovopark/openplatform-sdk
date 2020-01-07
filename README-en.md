@@ -2,7 +2,9 @@
 Opretail open platform Sdk
 >The public request parameter _aid is the open platform system number, and the fixed value is S107 to better ensure data security.
 The Opretail open platform provides the gateway invocation address of HTTPS for developers to use, and the original HTTP invocation method will also be retained
+
 >https://openapi.ovopark.com/m.api
+
 >http://openapi.ovopark.com/m.api
 
 If not specified in the API documentation, request body formatting: content-type defaults to application/x-www-form-urlencoded.
