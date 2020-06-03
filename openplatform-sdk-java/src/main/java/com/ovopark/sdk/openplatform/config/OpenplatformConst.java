@@ -15,7 +15,11 @@ public final class OpenplatformConst {
 	public static final String VERSION = "v1";
 	
 	public static final String JSON_DATA="data";
-
+	/**网关路由地址**/
+	public static final String apigwUrl="http://openapi.ovopark.com/m.api";
+	/**网关路由地址**/
+	public static final String apigwUrlHttps="https://openapi.ovopark.com/m.api";
+	
 	/**
 	 * @ClassName:  Sm   
 	 * @Description:TODO(签名算法)   
