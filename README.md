@@ -8,6 +8,11 @@
 
 >如果api文档里没有特殊注明，请求体格式化：Content-Type默认为application/x-www-form-urlencoded，通过urlencode格式化请求体。_akey和_asid为开发者的key和签名秘钥，开发者认证审核完后可获取，请妥善保管请勿泄露，如有遗忘，可以在https://docs.open.ovopark.com/account/aptitude查询
 
+## 网关更新说明
+>2020-07-08 上线中台网关,兼容老网关所有api请求，中台网关地址如下
+>https://cloudapi.ovopark.com/m.api
+>http://cloudapi.ovopark.com/m.api
+
 ## sdk更新说明
 
 ### openplatform-sdk-java
